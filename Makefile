@@ -1,2 +1,2 @@
 all:
-	gcc -o compose-agent compose-agent.c
+	g++ -o compose-agent compose-agent.cpp
