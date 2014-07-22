@@ -1,2 +1,2 @@
 all:
-	g++ -o compose-agent compose-agent.cpp
+	g++ -std=c++11 -o compose-agent compose-agent.cpp
