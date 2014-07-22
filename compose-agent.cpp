@@ -1,3 +1,4 @@
+#define __GXX_EXPERIMENTAL_CXX0X__ 1
 #include <unordered_map>
 #include <iostream>
 #include <fstream>
